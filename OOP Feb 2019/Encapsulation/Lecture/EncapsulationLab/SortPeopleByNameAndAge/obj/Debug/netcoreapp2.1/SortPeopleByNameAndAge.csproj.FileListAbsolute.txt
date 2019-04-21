@@ -1,0 +1,11 @@
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\bin\Debug\netcoreapp2.1\SortPeopleByNameAndAge.deps.json
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\bin\Debug\netcoreapp2.1\SortPeopleByNameAndAge.runtimeconfig.json
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\bin\Debug\netcoreapp2.1\SortPeopleByNameAndAge.runtimeconfig.dev.json
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\bin\Debug\netcoreapp2.1\SortPeopleByNameAndAge.dll
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\bin\Debug\netcoreapp2.1\SortPeopleByNameAndAge.pdb
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\SortPeopleByNameAndAge.csprojAssemblyReference.cache
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\SortPeopleByNameAndAge.csproj.CoreCompileInputs.cache
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\SortPeopleByNameAndAge.AssemblyInfoInputs.cache
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\SortPeopleByNameAndAge.AssemblyInfo.cs
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\SortPeopleByNameAndAge.dll
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SortPeopleByNameAndAge\obj\Debug\netcoreapp2.1\SortPeopleByNameAndAge.pdb

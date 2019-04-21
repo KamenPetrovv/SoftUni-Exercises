@@ -1,0 +1,14 @@
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\FirstAndReserveTeam.deps.json
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\FirstAndReserveTeam.runtimeconfig.json
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\FirstAndReserveTeam.runtimeconfig.dev.json
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\FirstAndReserveTeam.dll
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\FirstAndReserveTeam.pdb
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\SortPeopleByNameAndAge.dll
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\bin\Debug\netcoreapp2.1\SortPeopleByNameAndAge.pdb
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.csprojAssemblyReference.cache
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.AssemblyInfoInputs.cache
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.AssemblyInfo.cs
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.csproj.CopyComplete
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.dll
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\FirstAndReserveTeam\obj\Debug\netcoreapp2.1\FirstAndReserveTeam.pdb

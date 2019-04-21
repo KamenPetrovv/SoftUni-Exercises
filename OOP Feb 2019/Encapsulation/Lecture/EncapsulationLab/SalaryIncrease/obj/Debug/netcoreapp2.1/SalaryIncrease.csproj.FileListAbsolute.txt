@@ -1,0 +1,14 @@
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp2.1\SalaryIncrease.deps.json
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp2.1\SalaryIncrease.runtimeconfig.json
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp2.1\SalaryIncrease.runtimeconfig.dev.json
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp2.1\SalaryIncrease.dll
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp2.1\SalaryIncrease.pdb
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp2.1\SortPeopleByNameAndAge.dll
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp2.1\SortPeopleByNameAndAge.pdb
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp2.1\SalaryIncrease.csprojAssemblyReference.cache
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp2.1\SalaryIncrease.csproj.CoreCompileInputs.cache
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp2.1\SalaryIncrease.AssemblyInfoInputs.cache
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp2.1\SalaryIncrease.AssemblyInfo.cs
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp2.1\SalaryIncrease.csproj.CopyComplete
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp2.1\SalaryIncrease.dll
+D:\Programming\Exercises\SoftUni\SoftUni-Exercises\OOP Feb 2019\Encapsulation\Lecture\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp2.1\SalaryIncrease.pdb
